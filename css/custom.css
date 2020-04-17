@@ -1,0 +1,6 @@
+/* Custom CSS */
+
+.flex-column	{
+	background: rgb(242,155,34);
+	background: radial-gradient(circle, rgba(242,155,34,1) 0%, rgba(242,101,34,1) 100%);
+        }
